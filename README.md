@@ -1,3 +1,17 @@
 # Cognitive Science at University of Warsaw
 
-## Timeline of taken courses
+## 🗓️ Timeline of Taken Courses
+
+### Semester 1
+- Introduction to Python
+- Practical Projects in Python
+
+## 📂 About the Content
+
+- Each project folder contains **my own solutions**.  
+- Individual README files include additional information such as **score**, **commands to run the project**, and a short description.  
+- All original content belongs to the **course authors**.  
+
+## ✉️ Contact
+
+If you notice something that shouldn’t be here or have any questions, feel free to contact me at: **anna_julia_wojcik@wp.pl**
