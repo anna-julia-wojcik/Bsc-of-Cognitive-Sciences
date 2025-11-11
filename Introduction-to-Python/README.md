@@ -2,7 +2,7 @@
 
 | Project Name                            | Grade |
 |-----------------------------------------|-------|
-| Calculator                              | 100%  |
+| Calculator (CLI)                        | 100%  |
 | Contact Management System (CRUD)        | 120%  |
 | Guess a Number (CLI)                    | 120%  |
 | Password Generator (configurable rules) | 115%  |
@@ -12,3 +12,4 @@
 ## Course authors:
 - dr Jan Kwapisz
 - dr Artur Czeszumski
+
